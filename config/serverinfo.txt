@@ -1,0 +1,4 @@
+SMTP_SERVER | SMTP_USER | SMTP_PASS
+mail.domain.com
+username@domain.com
+Password12345
